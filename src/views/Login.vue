@@ -1,7 +1,7 @@
 <template>
     <div class="h-screen flex flex-col
                     items-center justify-center bg-slate-800 text-white">
-      <div class="flex flex-col p-12 bg-slate-700 border-slate-900 border rounded-3xl items-center justify-center">
+      <div class="flex flex-col mx-4 p-12 bg-slate-700 border-slate-900 border rounded-3xl items-center justify-center">
       <p class="text-white text-xl mb-3">
         Login To Your Account
       </p>
